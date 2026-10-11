@@ -2,7 +2,7 @@
 
 <!-- Purple-themed GitHub profile README for TheIgratxd -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=180&section=header&text=Diego%20Felipe&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Software%20%7C%20Science&descAlignY=58&descSize=16" width="100%" alt="Purple profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=180&section=header&text=Diego%20Felipe&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Purple profile header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+student+at+UNAM;Software+Development+Technician;Interested+in+AI%2C+math+%26+scientific+computing;Building+things%2C+learning+constantly%2C+asking+why" alt="Typing SVG" />
@@ -64,7 +64,6 @@ I'm interested in the space where **software, mathematics, artificial intelligen
   <img src="https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-A78BFA?style=for-the-badge&logo=linux&logoColor=1F1235" alt="Linux" />
   <img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/GitHub_Actions-8B5CF6?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/WSL-9333EA?style=for-the-badge&logo=linux&logoColor=white" alt="WSL" />
 </p>
@@ -110,7 +109,7 @@ I'm interested in the space where **software, mathematics, artificial intelligen
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheIgratxd&show_icons=true&hide_border=true&title_color=C4B5FD&icon_color=A78BFA&text_color=DDD6FE&bg_color=0D1117" alt="Diego's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIgratxd&layout=compact&hide_border=true&title_color=C4B5FD&text_color=DDD6FE&bg_color=0D1117" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIgratxd&layout=compact&hide_border=true&title_color=C4B5FD&text_color=DDD6FE&bg_color=0D1117&hide=Jupyter%20Notebook" alt="Most used languages" />
 </div>
 
 <div align="center">
@@ -159,13 +158,12 @@ I'm interested in learning from other developers, collaborating on meaningful pr
   <a href="https://github.com/TheIgratxd">
     <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href = https://www.linkedin.com/in/diego-felipe-rodr%C3%ADguez-rodr%C3%ADguez-65b7932a8/>
-    <img src="https://img.shields.io/badge/linkedin:  Diego Rodríguez%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/diego-felipe-rodr%C3%ADguez-rodr%C3%ADguez-65b7932a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Diego%20Rodríguez-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="diegopixel13@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  diegopixel13@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:diegopixel13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-diegopixel13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <div align="center">
@@ -175,4 +173,3 @@ I'm interested in learning from other developers, collaborating on meaningful pr
 <sub>Built with curiosity, a little purple, and a lot of ☕ (or late-night playlists).</sub>
 
 </div>
-
