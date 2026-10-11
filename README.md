@@ -160,9 +160,12 @@ I'm interested in learning from other developers, collaborating on meaningful pr
     <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href = https://www.linkedin.com/in/diego-felipe-rodr%C3%ADguez-rodr%C3%ADguez-65b7932a8/>
-    <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/linkedin:  Diego Rodríguez%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
   </a>
+  <a href="diegopixel13@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  diegopixel13@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 </p>
 
 <div align="center">
